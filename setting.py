@@ -1,0 +1,10 @@
+valid_email = 'izotovaannad@gmail.com'
+valid_phone = '+7(929)5634476'
+valid_password = 'Testparol5'
+valid_login = 'izotovaanna'
+valid_ls = '123456789123'
+valid_username = u"Изотова Анна"
+ad_slogan = u"Персональный помощник в цифровом мире Ростелекома"
+site = 'https://b2c.passport.rt.ru'
+link_lk = "/account_b2c/page"
+drv_path = '../../ChromeDrv/chromedriver.exe'
